@@ -1,6 +1,6 @@
 # Content-Based Image Retrieval for Computer Science Dissertation
-**Author:** [Nicholas Jaune]  
-**Institution:** [University Of Mauritius]
+**Author:** Nicholas Jaune
+**Institution:** University Of Mauritius
 
 ---
 
